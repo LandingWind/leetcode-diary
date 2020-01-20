@@ -1,5 +1,8 @@
 # leetcode-diary
+
 > 使用的语言看心情，以C++和Java为主
+
+
 leetcode 刷题记录
 
 - [x] 两数之和 #1
