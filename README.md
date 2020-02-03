@@ -1,6 +1,6 @@
 # leetcode-diary
 
-> 使用的语言看心情，以C++和Java为主
+> 使用的语言以Java为主
 >
 > *表示有所收获
 
